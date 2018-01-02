@@ -1,5 +1,5 @@
 #
-# ex: docker run cpuminer-multi -o stratum+tcp://ltc.pool.com:80 -u creack.worker1 -p xxx -t 7
+# ex: docker run -it cpuminer-multi -a cryptonight -o stratum+tcp://etn-us-west1.nanopool.org:13333 -u etnjwDgV1DzN9Be1ByAXE2aEZBX2DPpF3XdHt5PSqWrPTbGSjPbxbDK3yGRzc29i9MUe3RYvubSxkRaeZCey5aZP47jTf22yK8.worker/email
 #
 
 FROM		ubuntu:latest
